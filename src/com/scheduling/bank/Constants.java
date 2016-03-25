@@ -1,4 +1,4 @@
-package com.isoftstone.interview.bank;
+package com.scheduling.bank;
 
 /**
  * Function: 常量

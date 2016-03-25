@@ -1,4 +1,4 @@
-package com.isoftstone.interview.bank;
+package com.scheduling.bank;
 
 import java.util.ArrayList;
 import java.util.List;
